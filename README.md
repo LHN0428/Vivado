@@ -1,4 +1,4 @@
-  * 这是本人平常使用Vivado编写的一些
+  * 这是本人平常使用Vivado编写的一些代码
   * File Name: All Project
   * Author: Vcatus
   * Version: V1.0
